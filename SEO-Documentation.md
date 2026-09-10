@@ -1,0 +1,11 @@
+| Page | Target Keyword | URL Slug | Title | Meta Description |
+|---|---|---|---|---|
+| Home | anime reviews / otaku culture | /index.html | Anime Reviews & Otaku Culture \| Otakupath | Otakupath features honest anime reviews, otaku culture commentary, memorable characters, and controversial series. |
+| About | Otakupath anime blog | /about.html | About Otakupath \| Anime Review Blog | Learn about Otakupath, an anime review blog covering memorable series and otaku culture. |
+| Blog | anime reviews | /blog.html | Anime Reviews Directory \| Otakupath | Browse the complete Otakupath anime review directory, including Oreimo, Kiss x Sis, Domestic Girlfriend, Yosuga no Sora, and Overflow. |
+| Contact | contact Otakupath | /contact.html | Contact Otakupath \| Anime Blog | Contact Otakupath with feedback, questions, and anime review suggestions. |
+| Oreimo | Oreimo anime review | /posts/oreimo-review.html | Oreimo Anime Review: Chaos, Drama & Life Counseling \| Otakupath | Read our honest Oreimo anime review exploring closet otaku culture, character dynamics, sibling bonds, and the controversial season 2 ending. |
+| Kiss x Sis | Kiss x Sis anime review | /posts/kiss-x-sis-review.html | Kiss x Sis Anime Review: Unapologetic Late-2000s Ecchi \| Otakupath | An in-depth Kiss x Sis anime review covering its unhinged comedy, iconic late-2000s ecchi tropes, OVA series, and cult classic status. |
+| Domestic Girlfriend | Domestic Girlfriend ending explained review | /posts/domestic-girlfriend-review.html | Domestic Girlfriend Ending Explained & Review \| Otakupath | A detailed Domestic Girlfriend review and ending explanation breakdown covering Natsuo, Rui, Hina, the coma twist, and the wild manga conclusion. |
+| Yosuga no Sora | Yosuga no Sora anime review | /posts/yosuga-no-sora-review.html | Yosuga no Sora Anime Review: The Ultimate Unhinged Route \| Otakupath | Our Yosuga no Sora anime review examines the omnibus story structure, melancholic soundtrack, taboo romance themes, and iconic sister route. |
+| Overflow | Overflow anime review | /posts/overflow-review.html | Overflow Anime Review: Peak Unhinged Short-Form Chaos \| Otakupath | An honest Overflow anime review breaking down this fast-paced short series, its boundary-pushing ecchi tropes, comedy timing, and viral status. |

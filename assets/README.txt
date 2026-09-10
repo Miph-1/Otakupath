@@ -1,0 +1,1 @@
+Replace this folder's placeholders with your own optimized logo and post images. The site works without images.
